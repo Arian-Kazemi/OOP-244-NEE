@@ -1,0 +1,21 @@
+/***********************************************************************
+Full Name : Arian Kazemi
+Student ID# : 181613217
+Email : akazemi4@myseneca.ca
+Section : NEE
+
+Authenticity Declaration :
+I have done all the coding by myself and only copied the code that my
+professor provided to complete my workshops and assignments.
+************************************************************************/
+
+The workshop focused on creating and manipulating objects of a class, encapsulation, and proper code organization. Here are some key takeaways:
+Encapsulation: I've learned the importance of encapsulating data within a class and controlling access through member functions. This ensures data integrity and allows for better code maintenance.
+
+Constructor and Destructor: I've practiced implementing constructors to initialize class objects and destructors to release allocated resources, like dynamic memory. It's crucial to manage resources properly to prevent memory leaks.
+
+Member Functions: I've used member functions to perform various operations on class objects. These functions encapsulate the behavior associated with the class and promote code reusability.
+
+Testing: I've gained experience in writing test cases to verify the correctness of class methods and ensure that they meet the specified requirements.
+
+Overall, this workshop has deepened my understanding of OOP principles in C++,It has also enhanced my skills in writing well-structured and error-resilient code, which are essential for developing reliable software applications.

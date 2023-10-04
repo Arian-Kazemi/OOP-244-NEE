@@ -1,0 +1,26 @@
+/*/////////////////////////////////////////////////////////////////////////
+                        Workshop 2 - Part 2
+Full Name  : Arian Kazemi
+Student ID#: 181613217
+Email      : akazemi4@myseneca.ca
+Section    : NEE
+
+Authenticity Declaration:
+I have done all the coding by myself and only copied the code that my
+professor provided to complete my workshops and assignments.
+
+/////////////////////////////////////////////////////////////////////////*/
+
+In completing this workshop, I had the opportunity to delve into various aspects of C++ programming and gain a deeper understanding of key concepts.
+Here are some of the topics and insights I gathered during the workshop:
+
+-Modular Programming: We had to brake the code into different modules in workshop 1 but here in workshop 2 it wasn't the case , there were some given codes, functions but we have to do the rest.
+
+-Dynamic Memory Allocation:We allocated memory dynamically to store postal code data and we had to deallocate the memory in population code.
+-External Variables: I encountered the concept of external variables when addressing the issue of accessing fptr across different source files.
+-User Input and Validation:
+-Error Handling:There was some errors regarding user input that it is invalid. It was time consuming but I did fix it.
+
+In terms of difficulties, I encountered challenges related to linking modules and external variables initially.
+However, through the provided guidance and insights gained during the workshop, I was able to address these issues successfully.
+Overall, this workshop was an excellent opportunity to reinforce my understanding of C++ programming concepts and practices, particularly in the context of modular program design, file handling, and dynamic memory allocation. It highlighted the importance of careful planning and organization in software development, which will undoubtedly benefit me in future programming endeavors.

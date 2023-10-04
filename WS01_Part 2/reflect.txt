@@ -1,0 +1,8 @@
+/* ------------------------------------------------------
+Reflection
+Full Name :Arian Kazemi
+Email Address :akazemi4@myseneca.ca
+Student ID :181613217
+------------------------------------------------------*/
+
+This workshop taught me how to divide a program into modules so that we can compile them, making sure that it will run as a complete program. In PART 1 there was a given code w1p1 that we had to divide into different modules. In PART 2 "DIY" I had to create a function from scratch. Well, I created a single function that can open a txt file and then ask the user for a name. then I created an if loop to compare the user's input matches with a given txt file. If the program finds any matches between those 2 it will display the output to the user! If not then the program will go to the loop of  keep asking the user to enter an input. These we the things that I learned during the first workshop.
