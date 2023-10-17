@@ -1,0 +1,37 @@
+
+/***********************************************************************
+Full Name  : Arian Kazemi
+Student ID#: 181613217
+Email      : akazemi4@myseneca.ca
+Section    : NEE
+
+Authenticity Declaration:
+I have done all the coding by myself and only copied the code that my
+professor provided to complete my workshops and assignments.
+***********************************************************************/
+
+In completing this workshop, I've gained understanding of several key concepts in object-oriented programming through the development of a Portfolio class. Let me outline what I've learned and the challenges I encountered during this workshop.
+
+Class Structure: I grasped how to design and structure a C++ class, including defining its attributes and member functions.
+
+Constructors: I implemented both a default constructor and a parameterized constructor for the Portfolio class. This allowed me to initialize the object's attributes upon creation.
+
+Operator Overloading: I learned to overload various operators, such as +, +=, <<, >>, among others. This enabled me to define custom behaviors for these operators when used with Portfolio objects.
+
+Type Conversion: I put into practice type conversion operators like operator double(), operator const char*(), operator char(), and operator bool(). These operators permitted implicit and explicit type conversions for Portfolio objects.
+
+Display Functionality: I created a display function that presented information about the portfolio's status, value, and type. This display function was invoked using an overloaded << operator for stream output.
+
+Boolean Conversion: Implementing the custom boolean conversion operator operator bool() was crucial for determining if a Portfolio object is valid based on its type and value.
+
+Unary Operator: The operator~ was an interesting addition, allowing me to check if a Portfolio object has a negative value.
+
+String and Character Handling: Working with character arrays within the Portfolio class involved using C-string functions like strcpy. It was a great exercise in managing character data.
+
+Validation and Data Manipulation: I ensured that a Portfolio object's type and value met specific criteria through validation checks. Additionally, I implemented methods for manipulating data, such as adding and subtracting values.
+
+Friend Functions: The concept of friend functions was applied to define binary operators (operator+, operator+=) that operate on Portfolio objects. It was essential for performing operations between two portfolios.
+
+Header Files and Namespaces: Proper code organization through header files and namespaces helped in maintaining code readability and encapsulation of class definitions and functions.
+
+In summary, this workshop was a valuable hands-on experience that deepened my understanding of OOP principles. It allowed me to design a C++ class with various member functions and operators to create a functional Portfolio class. The challenges I encountered during the workshop mainly revolved around correctly implementing and overloading operators and ensuring that my code met the specified criteria for a valid Portfolio object.
