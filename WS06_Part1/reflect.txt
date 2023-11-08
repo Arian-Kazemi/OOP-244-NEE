@@ -1,0 +1,36 @@
+/***********************************************************************
+Full Name  : Arian Kazemi
+Student ID#: 181613217
+Email      : akazemi4@myseneca.ca
+Section    : NEE
+
+Authenticity Declaration:
+I have done all the coding by myself and only copied the code that my
+professor provided to complete my workshops and assignments.
+***********************************************************************/
+
+
+
+During this workshop, I have gained a better understanding of C++ programming and object-oriented concepts. The workshop focused on implementing a class called HealthCard to represent health card information. I have also reviewed the provided code modules and related course notes to ensure a comprehensive understanding of the topics covered.
+
+In the course of completing the project milestones, I have learned the following key concepts and skills:
+
+Class Implementation: I have learned how to design and implement a C++ class (HealthCard in this case). This class encapsulates health card information, and I understand the importance of organizing data and methods within a class to promote code reusability and maintainability.
+
+Constructor and Destructor: The workshop and project emphasized the use of constructors and destructors to initialize and clean up object data. This ensures that objects are properly initialized and resources are released when they are no longer needed.
+
+Operator Overloading: I have gained insights into operator overloading, particularly the overloading of << and >> operators. This enables custom input and output operations for class objects, making it easier to work with user-defined data types.
+
+Data Validation: The workshop included a validation test to ensure that the health card information is properly formatted. This reinforces the importance of validating user inputs to maintain data integrity and program reliability.
+
+File Input/Output: The code in the workshop also demonstrates how to read and write data to and from files. This is a valuable skill for working with external data sources and storing program data persistently.
+
+Memory Management: I have learned about dynamic memory allocation and how to manage memory effectively using functions like new and delete. This is crucial for preventing memory leaks and optimizing resource utilization.
+
+Object-Oriented Principles: The workshop and project encouraged the use of object-oriented principles such as encapsulation, data hiding, and the separation of interface from implementation. These principles promote code modularity and reusability.
+
+Error Handling: I have gained experience in handling errors using techniques like setting stream states and clearing error flags, which are essential for robust input/output operations.
+
+During this workshop, I encountered some challenges, such as understanding the validation requirements for the health card data format and implementing the operator overloads correctly. However, through careful reading of the course notes and iterative testing, I was able to overcome these challenges.
+
+In summary, this workshop and project have been valuable in deepening my understanding of C++ programming, object-oriented concepts, and best practices for class design and memory management. 
