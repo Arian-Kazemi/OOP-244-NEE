@@ -1,0 +1,8 @@
+﻿  iProduct.cpp
+  Item.cpp
+  main.cpp
+  Status.cpp
+C:\Users\Arian\Desktop\Seneca\OOP 244\ms3\MS3\Status.cpp(22,35): warning C4267: 'initializing': conversion from 'size_t' to 'char', possible loss of data
+  Utils.cpp
+  Generating Code...
+  MS3.vcxproj -> C:\Users\Arian\Desktop\Seneca\OOP 244\ms3\MS3\x64\Debug\MS3.exe
